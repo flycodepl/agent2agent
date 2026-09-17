@@ -1,0 +1,5 @@
+name: agent2agent
+version: 0.1.0
+description: "Cross-session agent-to-agent coordination: inject prompts into other gateway sessions (one-shot or repeating) and negotiate shared-resource leases (request/approve/deny) via durable state."
+author: "flycodepl"
+kind: standalone
